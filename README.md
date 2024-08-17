@@ -22,9 +22,6 @@ it then loops over the multiple variables at once for the faster iterations.
                     do grep -A 2 $line ${i%%.*}.format.fasta >>${i%%.*}.select.fasta; done
         done
 ```
-Gaurav, \
-Academic Staff Member, \
-Bioinformatics, \
-Institute for Biochemistry and Biology, \
+Gaurav Sablok \
 University of Potsdam, \
 Potsdam,Germany
